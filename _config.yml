@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "Arpan On Software"
 title_separator          : "-"
 name                     : "Arpan Mukherjee"
-description              : "Thoughts on Computer Science & Software Engineering."
+description              : "Thoughts on Computer Science, Software Engineering and more."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
@@ -66,8 +66,8 @@ google_ad_slot           :
 # Site Author
 author:
   name             : "Arpan Mukherjee"
-  avatar           : "bio-photo.jpg"
-  bio              : "Full Stack Software Engineer"
+  avatar           : "pic3.png"
+  bio              : "Full Stack Software Engineer with 5 years quality development experience on .NET platform"
   location         : "Hyderabad, India"
   email            :
   uri              :
