@@ -1,19 +1,19 @@
 # main links links
 main:
-- title: "Home"
-url: https://arpanmkjee.github.io
-
-  - title: "About"
+  - title: "Home"
     url: https://arpanmkjee.github.io
 
   - title: "Blog"
     url: https://arpanmkjee.github.io
     
-    - title: "Posts By Category"
-url: https://arpanmkjee.github.io
+  - title: "About"
+    url: https://arpanmkjee.github.io
+    
+  - title: "Posts By Category"
+    url: https://arpanmkjee.github.io
 
-- title: "Posts By Date"
-url: https://arpanmkjee.github.io
-
-- title: "Terms & Privacy Policy"
-url: https://arpanmkjee.github.io
+  - title: "Posts By Date"
+    url: https://arpanmkjee.github.io
+    
+  - title: "Terms & Privacy Policy"
+    url: /terms
