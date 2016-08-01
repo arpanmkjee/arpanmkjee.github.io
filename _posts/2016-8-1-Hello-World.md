@@ -8,8 +8,24 @@ share: true
 related: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+##Woo hoo I'm up and running
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Hope this is a start to one of my more fruitful enterprises. This is going to be a stage to capture my thoughts on software engineering and computer science.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Shout out to Barry Clark https://github.com/barryclark/jekyll-now for the amazing article in Smashing Magazine which helped me get started and Minimal Mistakes https://mmistakes.github.io/ for providing the theme.
+
+Finally I will leave you with some of the tech blogs which have inspired me over the years. Spoiler Alert !!! I am going to rip them off unabashedly :P.
+
+http://www.hanselman.com/
+
+http://www.joelonsoftware.com
+
+https://blog.codinghorror.com/
+
+https://m.signalvnoise.com/
+
+https://www.smashingmagazine.com/
+
+
+
+Till next time !!!
