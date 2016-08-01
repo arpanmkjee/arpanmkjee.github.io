@@ -1,8 +1,5 @@
 # main links links
 main:
-  - title: "Home"
-    url: https://arpanmkjee.github.io
-
   - title: "Blog"
     url: https://arpanmkjee.github.io
     
@@ -14,6 +11,4 @@ main:
 
   - title: "Posts By Date"
     url: https://arpanmkjee.github.io
-    
-  - title: "Terms & Privacy Policy"
-    url: /terms
+
