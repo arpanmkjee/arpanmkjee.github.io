@@ -1,6 +1,11 @@
 ---
-layout: post
-title: You're up and running!
+layout: single
+title: Hello World - I'm up and running!
+author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
