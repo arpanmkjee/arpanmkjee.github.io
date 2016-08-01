@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Hello World - I'm up and running!
+title: Hello World
 author_profile: true
 read_time: true
 comments: true
