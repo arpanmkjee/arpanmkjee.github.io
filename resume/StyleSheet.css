@@ -1,0 +1,63 @@
+﻿body
+{
+    margin:0;
+    padding:0;
+   
+}
+.no-padding-l-r{
+    padding-left:0;
+    padding-right:0;
+}
+
+.clearfix {
+    clear:both;
+}
+
+.blue-bg , a{
+  background:#0d2858;
+  color:#fff !important;
+}
+
+.mar-top-10 {
+    margin-top:10px;
+}
+.page-container{    
+    width:99%;
+    margin:0 auto;
+
+}
+.details{
+    text-transform:uppercase;
+    font-size:1em;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing:2px;
+}
+.sec-title {
+    text-transform:uppercase;
+    letter-spacing:1.5px;    
+}
+.button{
+    font-size:13px;
+    color:#000;
+    padding:5px;
+    border:none;
+    margin:2px;
+}
+.duration{
+    font-size:15px !important;
+}
+.designation{
+    font-size:18px;
+    text-transform:uppercase;
+    letter-spacing:1.5px;
+}
+.designation-title{
+     font-size:14px;
+}
+.about-me{
+    font-size:16px;
+    font-weight:lighter;
+    font-style:italic;
+    margin-top:35px;
+    text-justify:inter-word;
+}
